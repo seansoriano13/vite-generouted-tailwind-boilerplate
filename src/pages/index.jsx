@@ -1,5 +1,3 @@
-function Home() {
-    return <div>Home</div>
+export default function Home() {
+    return <div className='grid place-items-center h-screen'>Home</div>
 }
-
-export default Home
