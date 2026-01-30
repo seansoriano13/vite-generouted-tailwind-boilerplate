@@ -1,4 +1,4 @@
-# Generouted + Tailwind + Vite Template
+# React + Generouted + Tailwind + Vite Template + Supabase
 
 1. Click "Use this template"
 2. pnpm install
